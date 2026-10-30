@@ -1,1 +1,386 @@
-{}
+{
+  "site": {
+    "name": "Wiki do Rarest Answer Wins",
+    "shortName": "Rarest Answer Wins",
+    "tagline": "Respostas raras, jogadas mais inteligentes e guias verificados",
+    "description": "O Wiki do Rarest Answer Wins fornece respostas de trivia, estratégias de respostas raras, guias de jogabilidade, atualizações e dicas para ajudar os jogadores a vencer mais batalhas de quiz no Roblox.",
+    "legalNotice": "Wiki de fãs não oficial. Não afiliado a Rarest Answer Wins ou Roblox."
+  },
+  "nav": {
+    "guide": "Guia",
+    "codes": "Códigos",
+    "updates": "Atualizações",
+    "community": "Comunidade",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki do Rarest Answer Wins - Guia, códigos e estratégia de animais",
+      "description": "O Wiki do Rarest Answer Wins cobre como jogar, estratégia de respostas raras, o código HALLOWEEN, a atualização de animais e links oficiais do Roblox."
+    },
+    "hero": {
+      "eyebrow": "Quiz competitivo do Roblox",
+      "title": "Wiki do Rarest Answer Wins",
+      "description": "Rarest Answer Wins é um jogo de quiz do Roblox em que os jogadores nomeiam respostas adequadas que outros jogadores têm menos probabilidade de escolher. Respostas mais raras rendem mais pontos e permitem que os jogadores se aprofundem.",
+      "stats": [
+        "1.37M+ visitas",
+        "36 jogadores máx.",
+        "Tema de animais",
+        "Códigos e atualizações"
+      ],
+      "primaryCta": "Jogar no Roblox",
+      "secondaryCta": "Como jogar",
+      "tertiaryCta": "Códigos atuais",
+      "videoLabel": "Demonstração de jogabilidade"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver códigos e atualizações",
+      "viewAll": "Ver todos"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em Rarest Answer Wins",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Comece pelo ciclo central de enunciado e resposta e aprenda o que a listagem oficial do Roblox confirma."
+        },
+        {
+          "number": "2",
+          "title": "Estratégia de respostas raras",
+          "description": "Compare respostas adequadas por especificidade e originalidade antes de enviar."
+        },
+        {
+          "number": "3",
+          "title": "Códigos ativos",
+          "description": "Confira o código HALLOWEEN e o local oficial para novos anúncios."
+        },
+        {
+          "number": "4",
+          "title": "Atualização de animais",
+          "description": "Veja o que mudou no tema de animais adicionado em 23 de outubro de 2026."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guias populares do Rarest Answer Wins",
+      "quickLinks": [
+        "Como jogar",
+        "Códigos do Rarest Answer Wins",
+        "Atualização de animais",
+        "Links oficiais"
+      ],
+      "cards": []
+    },
+    "aboutGame": {
+      "title": "O que é Rarest Answer Wins?",
+      "paragraphs": [
+        "Rarest Answer Wins é um jogo de festa e quiz do Roblox construído em torno de uma ideia enganosamente simples: dar uma resposta que se encaixe no enunciado, mas seja menos óbvia que a de todos os outros. A descrição oficial usa nomear um animal como exemplo e diz que respostas mais raras rendem mais pontos e permitem que os jogadores se aprofundem.",
+        "A experiência foi lançada em setembro de 2026 e adicionou um tema de animais em 23 de outubro de 2026. A descrição dela no Roblox também lista HALLOWEEN para 10 giros grátis, enquanto o criador direciona os jogadores ao Discord para eventos, atualizações e códigos."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "Rarest Answer Wins!"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Quiz casual e de festa"
+        },
+        {
+          "label": "Visitas",
+          "value": "1.37M+"
+        },
+        {
+          "label": "Favoritos",
+          "value": "8.7K+"
+        },
+        {
+          "label": "Jogadores máx.",
+          "value": "36"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore o Wiki do Rarest Answer Wins",
+      "description": "Use estes guias para aprender o ciclo de respostas, conferir o código listado, acompanhar o tema de animais e encontrar a experiência oficial no Roblox.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Como jogar Rarest Answer Wins",
+          "description": "Aprenda o ciclo de enunciado e resposta e use a regra oficial de raridade para escolher uma resposta adequada que outros jogadores podem ignorar.",
+          "href": "/guide/rarest-answer-wins-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Leia o enunciado mostrado na rodada atual."
+            },
+            {
+              "label": "2",
+              "detail": "Diga uma resposta que se encaixe claramente no enunciado."
+            },
+            {
+              "label": "3",
+              "detail": "Escolha uma resposta adequada que outros jogadores podem ignorar."
+            },
+            {
+              "label": "4",
+              "detail": "Envie com os controles na tela e compare o resultado."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos do Rarest Answer Wins",
+          "description": "Confira o código listado na descrição oficial do Roblox e saiba onde procurar futuros anúncios.",
+          "href": "/codes/rarest-answer-wins-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "HALLOWEEN",
+              "detail": "10 giros grátis listados na descrição oficial do jogo",
+              "badge": "Listado"
+            },
+            {
+              "label": "Recompensa",
+              "detail": "A recompensa HALLOWEEN listada é de 10 giros grátis"
+            },
+            {
+              "label": "Fonte",
+              "detail": "Descrição oficial do Roblox verificada em 29 de outubro de 2026"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Tema de animais do Rarest Answer Wins",
+          "description": "Explore o enunciado com tema de animais adicionado em 23 de outubro de 2026 e a regra de resposta por trás de cada rodada.",
+          "href": "/updates/rarest-answer-wins-animals-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tema",
+              "detail": "O tema de animais se tornou o destaque em 23 de outubro de 2026"
+            },
+            {
+              "label": "Enunciado",
+              "detail": "Os jogadores nomeiam um animal que se encaixe na rodada atual"
+            },
+            {
+              "label": "Raridade",
+              "detail": "Respostas menos comuns rendem mais pontos e permitem que os jogadores se aprofundem"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Links oficiais do Rarest Answer Wins",
+          "description": "Comece pela experiência oficial no Roblox, confirme o criador e encontre canais da comunidade por meio dos links fornecidos pelo criador.",
+          "href": "/community/rarest-answer-wins-official-links",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roblox",
+              "detail": "A página oficial do jogo é o principal lugar para jogar e conferir atualizações"
+            },
+            {
+              "label": "Criador",
+              "detail": "A listagem do Roblox nomeia o grupo Rarest Answer Wins! como criador"
+            },
+            {
+              "label": "Discord",
+              "detail": "A descrição do jogo direciona os jogadores ao Discord para notícias e códigos"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Estratégia de respostas do Rarest Answer Wins",
+          "description": "Use uma estrutura simples S-to-C para comparar respostas por adequação e originalidade antes de enviar.",
+          "href": "/guide/rarest-answer-wins-how-to-play",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Encaixa-se no enunciado, permanece específica e parece menos óbvia que a primeira resposta que vem à mente"
+            },
+            {
+              "label": "A",
+              "detail": "Encaixa-se no enunciado e adiciona um detalhe preciso que dá à resposta uma identidade mais clara"
+            },
+            {
+              "label": "B",
+              "detail": "Encaixa-se no enunciado, mas usa uma resposta familiar que muitos jogadores também podem escolher"
+            },
+            {
+              "label": "C",
+              "detail": "Erra o enunciado ou repete o exemplo sem oferecer uma nova resposta"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia para iniciantes do Rarest Answer Wins",
+          "description": "Um caminho focado pelas primeiras rodadas: entenda o objetivo, teste ideias de resposta e crie um processo de decisão repetível.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Noções básicas",
+              "detail": "Aprenda como enunciados, respostas e pontuação se conectam"
+            },
+            {
+              "label": "Raridade",
+              "detail": "Use a regra oficial para favorecer respostas menos comuns"
+            },
+            {
+              "label": "Prática",
+              "detail": "Revise cada rodada e refine sua próxima resposta"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Códigos e recompensas do Rarest Answer Wins",
+          "description": "Encontre o código listado, a recompensa anunciada e o local oficial para conferir novos anúncios.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "HALLOWEEN",
+              "detail": "10 giros grátis anunciados na descrição oficial",
+              "badge": "Listado"
+            },
+            {
+              "label": "Recompensa",
+              "detail": "A recompensa listada é de 10 giros grátis"
+            },
+            {
+              "label": "Atualizações",
+              "detail": "Confira a página do jogo no Roblox para anúncios atuais de códigos"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Central de atualizações do Rarest Answer Wins",
+          "description": "Acompanhe mudanças de tema, anúncios de códigos e avisos oficiais da comunidade da experiência no Roblox.",
+          "href": "/updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Animais",
+              "detail": "O tema de animais chegou em 23 de outubro de 2026"
+            },
+            {
+              "label": "Códigos",
+              "detail": "HALLOWEEN apareceu na descrição oficial em 29 de outubro de 2026"
+            },
+            {
+              "label": "Desligamento",
+              "detail": "A descrição diz que um desligamento sinaliza uma atualização"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes do Rarest Answer Wins",
+      "description": "Respostas para perguntas comuns sobre Rarest Answer Wins.",
+      "items": [
+        {
+          "question": "O que é Rarest Answer Wins?",
+          "answer": "Rarest Answer Wins é um jogo de festa e quiz do Roblox em que os jogadores dão respostas a enunciados como nomear um animal. Respostas mais raras rendem mais pontos e permitem que os jogadores se aprofundem."
+        },
+        {
+          "question": "Como jogar Rarest Answer Wins?",
+          "answer": "Leia o enunciado atual, escolha uma resposta que se encaixe e tente torná-la menos óbvia que as respostas que outros jogadores podem escolher. Envie usando os controles mostrados no jogo e use cada rodada para refinar sua próxima escolha."
+        },
+        {
+          "question": "O que significa uma resposta rara em Rarest Answer Wins?",
+          "answer": "A descrição oficial do Roblox diz que respostas mais raras rendem mais pontos e permitem que os jogadores se aprofundem. Ela não publica uma fórmula de pontuação nem uma lista completa de respostas aceitas."
+        },
+        {
+          "question": "Existe um código do Rarest Answer Wins?",
+          "answer": "Em 29 de outubro de 2026, a descrição oficial do Roblox listava HALLOWEEN para 10 giros grátis. Abra a página atual do jogo antes de inserir um código para usar o anúncio mais recente."
+        },
+        {
+          "question": "Onde estão os links oficiais do Rarest Answer Wins?",
+          "answer": "Comece pela página de Rarest Answer Wins no Roblox e confirme o criador listado ali. A descrição do jogo também direciona os jogadores ao Discord para eventos, atualizações, códigos e notícias da comunidade."
+        },
+        {
+          "question": "Rarest Answer Wins tem um tema de animais?",
+          "answer": "Sim. A descrição oficial data o tema de animais em 23 de outubro de 2026 e pede que os jogadores nomeiem um animal."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para encontrar a resposta mais rara?",
+      "description": "Aprenda a escolher respostas de animais incomuns, evite escolhas previsíveis e suba na classificação com nossos guias do Rarest Answer Wins.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guia do Rarest Answer Wins",
+    "overviewDescription": "Aprenda a regra básica, crie escolhas mais fortes de respostas raras e faça cada rodada de Rarest Answer Wins valer a pena."
+  },
+  "codes": {
+    "overviewTitle": "Códigos do Rarest Answer Wins",
+    "overviewDescription": "Confira o código mais recente do Rarest Answer Wins, aprenda como resgatá-lo e saiba onde novos códigos são anunciados."
+  },
+  "updates": {
+    "overviewTitle": "Atualizações do Rarest Answer Wins",
+    "overviewDescription": "Acompanhe a atualização de animais do Rarest Answer Wins e veja como novos temas mudam as respostas que os jogadores devem considerar."
+  },
+  "community": {
+    "overviewTitle": "Comunidade do Rarest Answer Wins",
+    "overviewDescription": "Encontre a página oficial de Rarest Answer Wins no Roblox, identifique o criador e localize canais da comunidade."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Nenhum guia disponível ainda. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki do Rarest Answer Wins",
+    "about": "O Wiki do Rarest Answer Wins é uma central independente de guias feita por fãs que cobre estratégia de respostas raras, ideias de respostas de animais, códigos, atualizações e dicas essenciais de quiz para jogadores novos e veteranos.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Jurídico",
+    "copyright": "2026 Wiki do Rarest Answer Wins. Não afiliado a Rarest Answer Wins ou Roblox.",
+    "description": "Jogo competitivo de trivia do Roblox. Dê respostas raras e únicas para superar os oponentes e subir na classificação.",
+    "playGame": "Jogar Rarest Answer Wins no Roblox",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "Vídeos de jogabilidade",
+    "vvBuilder": "Guia de estratégia de quiz",
+    "beginnerGuide": "Guia para iniciantes",
+    "raceGuides": "Estratégias de respostas",
+    "bossGuides": "Dicas de respostas raras",
+    "buildGuide": "Códigos e atualizações",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  }
+}

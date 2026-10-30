@@ -1,1 +1,386 @@
-{}
+{
+  "site": {
+    "name": "Rarest Answer Wins Wiki",
+    "shortName": "Rarest Answer Wins",
+    "tagline": "Seltene Antworten, klügere Spielzüge & verifizierte Leitfäden",
+    "description": "Das Rarest Answer Wins Wiki bietet Quiz-Antworten, Strategien für seltene Antworten, Gameplay-Leitfäden, Updates und Tipps, die Spielern helfen, mehr Roblox-Quizkämpfe zu gewinnen.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Nicht mit Rarest Answer Wins oder Roblox verbunden."
+  },
+  "nav": {
+    "guide": "Leitfaden",
+    "codes": "Codes",
+    "updates": "Updates",
+    "community": "Community",
+    "menu": "Menü",
+    "toggleTheme": "Design umschalten"
+  },
+  "home": {
+    "meta": {
+      "title": "Rarest Answer Wins Wiki - Leitfaden, Codes & Tier-Strategie",
+      "description": "Das Rarest Answer Wins Wiki behandelt die Spielweise, die Strategie für seltene Antworten, den HALLOWEEN-Code, das Tier-Update und offizielle Roblox-Links."
+    },
+    "hero": {
+      "eyebrow": "Kompetitives Roblox-Quiz",
+      "title": "Rarest Answer Wins Wiki",
+      "description": "Rarest Answer Wins ist ein Roblox-Quizspiel, bei dem Spieler passende Antworten nennen, die andere Spieler wahrscheinlich seltener wählen. Seltenere Antworten bringen mehr Punkte und lassen Spieler tiefer eintauchen.",
+      "stats": [
+        "1.37M+ Besuche",
+        "36 max. Spieler",
+        "Tier-Theme",
+        "Codes & Updates"
+      ],
+      "primaryCta": "Auf Roblox spielen",
+      "secondaryCta": "Spielanleitung",
+      "tertiaryCta": "Aktuelle Codes",
+      "videoLabel": "Gameplay-Präsentation"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Codes & Updates durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise mit Rarest Answer Wins",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteigerleitfaden",
+          "description": "Beginne mit dem zentralen Prompt-und-Antwort-Zyklus und erfahre, was der offizielle Roblox-Eintrag bestätigt."
+        },
+        {
+          "number": "2",
+          "title": "Strategie für seltene Antworten",
+          "description": "Vergleiche passende Antworten vor dem Absenden nach Spezifität und Originalität."
+        },
+        {
+          "number": "3",
+          "title": "Funktionierende Codes",
+          "description": "Prüfe den HALLOWEEN-Code und die offizielle Stelle für neue Ankündigungen."
+        },
+        {
+          "number": "4",
+          "title": "Tier-Update",
+          "description": "Sieh, was sich im Tier-Theme geändert hat, das am 23. Oktober 2026 hinzugefügt wurde."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Beliebte Leitfäden zu Rarest Answer Wins",
+      "quickLinks": [
+        "Spielanleitung",
+        "Codes für Rarest Answer Wins",
+        "Tier-Update",
+        "Offizielle Links"
+      ],
+      "cards": []
+    },
+    "aboutGame": {
+      "title": "Was ist Rarest Answer Wins?",
+      "paragraphs": [
+        "Rarest Answer Wins ist ein Roblox-Party- und Quizspiel, das auf einer täuschend einfachen Idee basiert: Gib eine Antwort, die zur Aufgabe passt, aber weniger offensichtlich ist als die der anderen. Die offizielle Beschreibung verwendet das Nennen eines Tieres als Beispiel und besagt, dass seltenere Antworten mehr Punkte bringen und Spieler tiefer eintauchen lassen.",
+        "Das Erlebnis startete im September 2026 und fügte am 23. Oktober 2026 ein Tier-Theme hinzu. Die Roblox-Beschreibung listet außerdem HALLOWEEN für 10 kostenlose Spins, während der Ersteller Spieler für Events, Updates und Codes auf Discord verweist."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Rarest Answer Wins!"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Party- & Casual-Quiz"
+        },
+        {
+          "label": "Besuche",
+          "value": "1.37M+"
+        },
+        {
+          "label": "Favoriten",
+          "value": "8.7K+"
+        },
+        {
+          "label": "Max. Spieler",
+          "value": "36"
+        }
+      ],
+      "cta": "Alle Leitfäden entdecken"
+    },
+    "explore": {
+      "title": "Das Rarest Answer Wins Wiki erkunden",
+      "description": "Nutze diese Leitfäden, um die Antwortschleife kennenzulernen, den aufgeführten Code zu prüfen, dem Tier-Theme zu folgen und das offizielle Roblox-Erlebnis zu finden.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Rarest Answer Wins: Spielanleitung",
+          "description": "Lerne den Prompt-und-Antwort-Zyklus kennen und nutze die offizielle Seltenheitsregel, um eine passende Antwort zu wählen, die andere Spieler möglicherweise übersehen.",
+          "href": "/guide/rarest-answer-wins-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lies den in der aktuellen Runde angezeigten Prompt."
+            },
+            {
+              "label": "2",
+              "detail": "Nenne eine Antwort, die eindeutig zum Prompt passt."
+            },
+            {
+              "label": "3",
+              "detail": "Wähle eine passende Antwort, die andere Spieler möglicherweise übersehen."
+            },
+            {
+              "label": "4",
+              "detail": "Sende mit den Bildschirmsteuerungen ab und vergleiche das Ergebnis."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Rarest Answer Wins Codes",
+          "description": "Prüfe den in der offiziellen Roblox-Beschreibung aufgeführten Code und erfahre, wo du nach zukünftigen Ankündigungen suchen kannst.",
+          "href": "/codes/rarest-answer-wins-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "HALLOWEEN",
+              "detail": "10 kostenlose Spins, aufgeführt in der offiziellen Spielbeschreibung",
+              "badge": "Aufgeführt"
+            },
+            {
+              "label": "Belohnung",
+              "detail": "Die aufgeführte HALLOWEEN-Belohnung besteht aus 10 kostenlosen Spins."
+            },
+            {
+              "label": "Quelle",
+              "detail": "Offizielle Roblox-Beschreibung geprüft am 29. Oktober 2026"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Rarest Answer Wins Tier-Theme",
+          "description": "Entdecke den tierbezogenen Prompt, der am 23. Oktober 2026 hinzugefügt wurde, und die Antwortregel hinter jeder Runde.",
+          "href": "/updates/rarest-answer-wins-animals-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Theme",
+              "detail": "Tiere wurden am 23. Oktober 2026 zum Hauptthema."
+            },
+            {
+              "label": "Prompt",
+              "detail": "Spieler nennen ein Tier, das zur aktuellen Runde passt"
+            },
+            {
+              "label": "Seltenheit",
+              "detail": "Seltenere Antworten bringen mehr Punkte und lassen tiefer eintauchen."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Offizielle Links zu Rarest Answer Wins",
+          "description": "Beginne mit dem offiziellen Roblox-Erlebnis, bestätige den Ersteller und finde Community-Kanäle über vom Ersteller bereitgestellte Links.",
+          "href": "/community/rarest-answer-wins-official-links",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roblox",
+              "detail": "Die offizielle Spielseite ist der wichtigste Ort zum Spielen und Prüfen von Updates."
+            },
+            {
+              "label": "Ersteller",
+              "detail": "Der Roblox-Eintrag nennt die Gruppe Rarest Answer Wins! als Ersteller."
+            },
+            {
+              "label": "Discord",
+              "detail": "Die Spielbeschreibung verweist Spieler für Neuigkeiten und Codes auf Discord."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Rarest Answer Wins Antwortstrategie",
+          "description": "Nutze ein einfaches S-to-C-Framework, um Antworten vor dem Absenden nach Passung und Originalität zu vergleichen.",
+          "href": "/guide/rarest-answer-wins-how-to-play",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Passt zum Prompt, bleibt spezifisch und wirkt weniger offensichtlich als die erste Antwort, die einem in den Sinn kommt"
+            },
+            {
+              "label": "A",
+              "detail": "Passt zum Prompt und ergänzt ein präzises Detail, das der Antwort eine klarere Identität verleiht"
+            },
+            {
+              "label": "B",
+              "detail": "Passt zum Prompt, verwendet aber eine vertraute Antwort, die viele Spieler ebenfalls wählen könnten"
+            },
+            {
+              "label": "C",
+              "detail": "Verfehlt den Prompt oder wiederholt das Beispiel, ohne eine neue Antwort zu bieten"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Rarest Answer Wins Einsteigerleitfaden",
+          "description": "Ein gezielter Weg durch die ersten Runden: Verstehe das Ziel, teste Antwortideen und entwickle einen wiederholbaren Entscheidungsprozess.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Grundlagen",
+              "detail": "Erfahre, wie Prompts, Antworten und Punktevergabe zusammenhängen"
+            },
+            {
+              "label": "Seltenheit",
+              "detail": "Nutze die offizielle Regel, um seltenere Antworten zu bevorzugen"
+            },
+            {
+              "label": "Übung",
+              "detail": "Überprüfe jede Runde und verfeinere deine nächste Antwort"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Rarest Answer Wins Codes und Belohnungen",
+          "description": "Finde den aufgeführten Code, seine beworbene Belohnung und die offizielle Stelle, an der du nach neuen Ankündigungen suchst.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "HALLOWEEN",
+              "detail": "10 kostenlose Spins, beworben in der offiziellen Beschreibung",
+              "badge": "Aufgeführt"
+            },
+            {
+              "label": "Belohnung",
+              "detail": "Die aufgeführte Belohnung besteht aus 10 kostenlosen Spins."
+            },
+            {
+              "label": "Updates",
+              "detail": "Prüfe die Roblox-Spielseite auf aktuelle Code-Ankündigungen"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Rarest Answer Wins Update-Hub",
+          "description": "Verfolge Theme-Änderungen, Code-Ankündigungen und offizielle Community-Hinweise aus dem Roblox-Erlebnis.",
+          "href": "/updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tiere",
+              "detail": "Das Tier-Theme kam am 23. Oktober 2026"
+            },
+            {
+              "label": "Codes",
+              "detail": "HALLOWEEN erschien am 29. Oktober 2026 in der offiziellen Beschreibung"
+            },
+            {
+              "label": "Herunterfahren",
+              "detail": "Laut Beschreibung signalisiert ein Herunterfahren ein Update."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Rarest Answer Wins FAQ",
+      "description": "Antworten auf häufige Fragen zu Rarest Answer Wins.",
+      "items": [
+        {
+          "question": "Was ist Rarest Answer Wins?",
+          "answer": "Rarest Answer Wins ist ein Roblox-Party- und Quizspiel, bei dem Spieler Antworten auf Prompts wie das Nennen eines Tieres geben. Seltenere Antworten bringen mehr Punkte und lassen Spieler tiefer eintauchen."
+        },
+        {
+          "question": "Wie spielt man Rarest Answer Wins?",
+          "answer": "Lies den aktuellen Prompt, wähle eine passende Antwort und versuche, sie weniger offensichtlich zu machen als die Antworten, die andere Spieler wählen könnten. Sende mit den im Spiel angezeigten Steuerungen ab und nutze jede Runde, um deine nächste Wahl zu verfeinern."
+        },
+        {
+          "question": "Was bedeutet eine seltene Antwort in Rarest Answer Wins?",
+          "answer": "Die offizielle Roblox-Beschreibung besagt, dass seltenere Antworten mehr Punkte bringen und Spieler tiefer eintauchen lassen. Sie veröffentlicht weder eine Punkteformel noch eine vollständige Liste akzeptierter Antworten."
+        },
+        {
+          "question": "Gibt es einen Code für Rarest Answer Wins?",
+          "answer": "Stand 29. Oktober 2026 listete die offizielle Roblox-Beschreibung HALLOWEEN für 10 kostenlose Spins. Öffne die aktuelle Spielseite, bevor du einen Code eingibst, damit du mit der neuesten Ankündigung arbeitest."
+        },
+        {
+          "question": "Wo sind die offiziellen Links zu Rarest Answer Wins?",
+          "answer": "Beginne mit der Rarest Answer Wins-Seite auf Roblox und bestätige den dort aufgeführten Ersteller. Die Spielbeschreibung verweist Spieler außerdem für Events, Updates, Codes und Community-Neuigkeiten auf Discord."
+        },
+        {
+          "question": "Hat Rarest Answer Wins ein Tier-Theme?",
+          "answer": "Ja. Die offizielle Beschreibung datiert das Tier-Theme auf den 23. Oktober 2026 und fordert Spieler auf, ein Tier zu nennen."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, die seltenste Antwort zu finden?",
+      "description": "Lerne, wie du ungewöhnliche Tierantworten wählst, vorhersehbare Entscheidungen vermeidest und mit unseren Leitfäden zu Rarest Answer Wins die Rangliste erklimmst.",
+      "primary": "Lies den Einsteigerleitfaden",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Rarest Answer Wins Leitfaden",
+    "overviewDescription": "Lerne die Grundregel, entwickle stärkere Antwortmöglichkeiten für seltene Antworten und nutze jede Runde in Rarest Answer Wins optimal."
+  },
+  "codes": {
+    "overviewTitle": "Rarest Answer Wins Codes",
+    "overviewDescription": "Prüfe den neuesten Code für Rarest Answer Wins, erfahre, wie du ihn einlöst, und wisse, wo neue Codes angekündigt werden."
+  },
+  "updates": {
+    "overviewTitle": "Rarest Answer Wins Updates",
+    "overviewDescription": "Verfolge das Tier-Update von Rarest Answer Wins und sieh, wie neue Themes die Antworten verändern, die Spieler in Betracht ziehen sollten."
+  },
+  "community": {
+    "overviewTitle": "Rarest Answer Wins Community",
+    "overviewDescription": "Finde die offizielle Rarest Answer Wins Roblox-Seite, identifiziere den Ersteller und finde Community-Kanäle."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Leitfäden verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Rarest Answer Wins Wiki",
+    "about": "Das Rarest Answer Wins Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub, der Strategien für seltene Antworten, Ideen für Tierantworten, Codes, Updates und wichtige Quiz-Tipps für neue und erfahrene Spieler gleichermaßen abdeckt.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 Rarest Answer Wins Wiki. Nicht mit Rarest Answer Wins oder Roblox verbunden.",
+    "description": "Kompetitives Roblox-Quizspiel. Gib seltene, einzigartige Antworten, um Gegner zu übertreffen und die Rangliste zu erklimmen.",
+    "playGame": "Spiele Rarest Answer Wins auf Roblox",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Gameplay-Videos",
+    "vvBuilder": "Quiz-Strategieleitfaden",
+    "beginnerGuide": "Einsteigerleitfaden",
+    "raceGuides": "Antwortstrategien",
+    "bossGuides": "Tipps für seltene Antworten",
+    "buildGuide": "Codes & Updates",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

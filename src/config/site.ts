@@ -28,6 +28,6 @@ export const siteConfig: SiteConfig = {
   supportEmail: "support@rarest-answer-wins.wiki",
   gameUrl: "https://www.roblox.com/games/81548692127925/Rarest-Answer-Wins",
   heroVideoId: "e13P3b_OKmc",
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt", "de"],
   defaultLocale: "en",
 };
