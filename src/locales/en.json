@@ -6,7 +6,14 @@
     "description": "Rarest Answer Wins Wiki provides trivia answers, rare response strategies, gameplay guides, updates, and tips to help players win more Roblox quiz battles.",
     "legalNotice": "Unofficial fan wiki. Not affiliated with Rarest Answer Wins or Roblox."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "codes": "Codes",
+    "updates": "Updates",
+    "community": "Community",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Rarest Answer Wins Wiki - Guide, Codes & Animal Strategy",
@@ -324,7 +331,22 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Rarest Answer Wins Guide",
+    "overviewDescription": "Learn the basic rule, build stronger rare-answer choices, and make every Rarest Answer Wins round count."
+  },
+  "codes": {
+    "overviewTitle": "Rarest Answer Wins Codes",
+    "overviewDescription": "Check the latest Rarest Answer Wins code, learn how to redeem it, and know where new codes are announced."
+  },
+  "updates": {
+    "overviewTitle": "Rarest Answer Wins Updates",
+    "overviewDescription": "Follow the Rarest Answer Wins animals update and see how new themes change the answers players should consider."
+  },
+  "community": {
+    "overviewTitle": "Rarest Answer Wins Community",
+    "overviewDescription": "Find the official Rarest Answer Wins Roblox page, identify the creator, and locate community channels."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
