@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return {
     metadataBase: new URL(siteUrl),
     applicationName: siteConfig.name,
-    title: { default: `${siteConfig.name} - Answers, Codes & Guides`, template: `%s | ${siteConfig.name}` },
+    title: { default: "Rarest Answer Wins Wiki", template: `%s | ${siteConfig.name}` },
     description: siteConfig.description,
     manifest: "/manifest.json",
     icons: {
@@ -39,7 +39,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     },
     appleWebApp: { capable: true, title: siteConfig.shortName, statusBarStyle: "black-translucent" },
     category: "games",
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
+    openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, title: siteConfig.name, description: siteConfig.description, images: [{ url: image, alt: `${siteConfig.name} preview` }] },
     twitter: { card: "summary_large_image", title: siteConfig.name, description: siteConfig.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };

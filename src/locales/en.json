@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "Rarest Answer Wins Wiki",
+    "shortName": "Rarest Answer Wins",
+    "tagline": "Rare Answers, Smarter Plays & Verified Guides",
+    "description": "Rarest Answer Wins Wiki provides trivia answers, rare response strategies, gameplay guides, updates, and tips to help players win more Roblox quiz battles.",
+    "legalNotice": "Unofficial fan wiki. Not affiliated with Rarest Answer Wins or Roblox."
   },
   "nav": {
     "races": "Races",
@@ -30,19 +30,19 @@
       "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Competitive Trivia Quiz Game",
+      "title": "Rarest Answer Wins Wiki",
+      "description": "Rarest Answer Wins is a competitive trivia game where players try to give unique answers and outsmart opponents by choosing rare responses across different questions.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "100+ Questions",
+        "Rare Answer Strategy",
+        "Codes & Updates",
+        "Roblox Quiz Guide"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "primaryCta": "Play on Roblox",
+      "secondaryCta": "Answer Strategy Guide",
       "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "videoLabel": "Gameplay showcase"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,8 +342,8 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Find the Rarest Answer?",
+      "description": "Learn how to choose uncommon animal answers, avoid predictable picks, and climb the leaderboard with our Rarest Answer Wins guides.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Rarest Answer Wins Wiki",
+    "about": "Rarest Answer Wins Wiki is an independent fan-built guide hub covering rare-answer strategy, animal answer ideas, codes, updates, and essential quiz tips for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Rarest Answer Wins Wiki. Not affiliated with Rarest Answer Wins or Roblox.",
+    "description": "Competitive Roblox trivia game. Give rare, unique answers to outscore opponents and climb the leaderboard.",
+    "playGame": "Play Rarest Answer Wins on Roblox",
     "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "officialYoutube": "Gameplay Videos",
+    "vvBuilder": "Quiz Strategy Guide",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Answer Strategies",
+    "bossGuides": "Rare Answer Tips",
+    "buildGuide": "Codes & Updates",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
